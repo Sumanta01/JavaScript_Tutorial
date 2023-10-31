@@ -3,7 +3,7 @@ function reverseString(str) {
   }
   
   
-  const originalString = "Hello, World!";
+  const originalString = "Sumanta Swain";
   const reversed = reverseString(originalString);
   console.log(reversed);
   
